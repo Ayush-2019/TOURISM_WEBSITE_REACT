@@ -1,3 +1,9 @@
+This is the Tourism Website that is Created Using ReactJs as the front end framework. The website is made by creating various components like:- Header and Footer, Location, Pricing etc. MaterialUI has been used here so as to create MenuIcon, AppBar etc. Various features such as fading, zooming have been created. It uses useState, useEffect and useCallback hook so as to make various features functional.
+
+This website is succesfully deployed using surge, the link is given below:-
+
+https://woozy-territory.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
